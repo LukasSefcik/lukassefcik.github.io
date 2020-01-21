@@ -1,0 +1,1 @@
+choco list -lo -r -y | % { "choco install " + $_.Replace("|", " -version ") + " -y" }
