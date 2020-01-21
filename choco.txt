@@ -1,0 +1,15 @@
+choco install 1password -y
+choco install 7zip.install -y
+choco install docfx -y
+choco install docker-desktop -y
+choco install Everything -y
+choco install git.install -y
+choco install GoogleChrome -y
+choco install lightshot.install -y
+choco install linqpad5.install -y
+choco install microsoft-windows-terminal -y
+choco install nodejs.install -version 10.16.0 -y
+choco install notepad3.install -y
+choco install postman -y
+choco install todoist -y
+choco install vscode.install -y
